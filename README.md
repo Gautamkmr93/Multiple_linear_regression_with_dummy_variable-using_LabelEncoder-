@@ -1,2 +1,0 @@
-# Multiple_linear_regression_with_dummy_variable-using_LabelEncoder-
-Multiple_linear_regression_with_dummy_variable(using_LabelEncoder)
